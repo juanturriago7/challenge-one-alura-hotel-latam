@@ -15,7 +15,6 @@
 - [Funcionalidades](#funcionalidades)
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologias-utilizadas)
-- [Licencia](#licencia)
 
 
 ## Descripcion del proyecto
@@ -82,7 +81,4 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 
 * `mysql-connector-j-8.0.32.jar`
 
-## Licencia
-
-> Hotel Alura está licenciado bajo la [licencia MIT](https://github.com/dainercortes/challenge-one-alura-hotel-latam/blob/main/LICENSE.md)
 
