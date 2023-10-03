@@ -2,7 +2,7 @@
 
 
 <p align="center" > 
-  <img src="https://img.shields.io/badge/Java%20JDK-v.19-green"/>
+  <img src="https://img.shields.io/badge/Java%20JDK-v.17-green"/>
   <img src="https://img.shields.io/badge/Maven-v.3.9.0-yellow"/>
   <img src="https://img.shields.io/badge/MySQL-v.8.0.33-blue"/>
 </p>
